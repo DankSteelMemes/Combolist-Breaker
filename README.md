@@ -41,11 +41,11 @@ was full of weird characters. I'd still keep the try/catch, though.
 It will NOT get everything but it does a pretty good job.
 
 
-Delimters it works with:
-    :
-    ;
-    (space)
-    (tab)
+Delimters it works with  
+    :  
+    ;  
+    (space)  
+    (tab)  
     
 It should be fairly easy to add in another type if you would like.
 
