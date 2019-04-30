@@ -5,7 +5,7 @@ Written in Python 3.7 at first.
 
 Python 3.7 takes 51 seconds per 10 million lines.
 
-pypy3.6 takes 9 seconds per 10 million lines.
+pypy3 takes 9 seconds per 10 million lines.
 
 I recommend pypy.
 
@@ -13,7 +13,8 @@ I recommend pypy.
 This is one of my first Python projects. I know it could be cleaner and 
 probably done in a much more efficient way than it is here. That's the 
 plan if I ever come back to update this. This will theorhetically work
-on any size file. I've tested it on a 10gb file with 260+ million lines.
+on any size file. I've tested it on a 10gb file with 260+ million lines
+and it worked great. Use an SSD if you are working with large files.
 
 
 It is made to break a combolist down into a list of passwords.
